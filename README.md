@@ -1,6 +1,8 @@
 # Intensivão de Criação de Jogos
 <br/>
 
+<p>Este evento foi feito pelo canal Crie seus jogos, com objetivo de ajudar todas as </p>
+
 <table>
   <tr>
     <td>
@@ -20,32 +22,29 @@
 </table>
 
 
-
-
 ## Descrição do Evento
 O Intensivão de Criação de Jogos é um evento dedicado a aprofundar suas habilidades na criação de jogos usando a Unity. Este evento oferece uma oportunidade única de aprender, praticar e colaborar com outros entusiastas de jogos.
 
 ## Tecnologia Utilizada
-- Unity: A principal plataforma de desenvolvimento de jogos.
+- Unity: A principal plataforma de desenvolvimento do jogo.
 
-## Redes Sociais
-- 
-- [Instagram](https://www.instagram.com/seuusuario)
-- [Facebook](https://www.facebook.com/seuusuario)
-
-## Organização
-Este evento é promovido por [Nome da Organização ou Pessoa]. Siga-nos nas redes sociais para obter atualizações regulares sobre o evento e outras informações relacionadas à criação de jogos.
 
 ## Progresso Diário
-Aqui, manteremos um registro diário do progresso feito durante o evento:
 
-### Dia 1
-- [Incluir resumo do que foi feito no primeiro dia]
 
-### Dia 2
+#### Dia 1
+- Apresentação da ferramenta Unity
+- Criação do cenário
+- Criação de obstáculos
+  - Espinhos
+- Criação de Animações
+    - Player
+        [Tabela como gif das animações]
+
+#### Dia 2
 - [Incluir resumo do que foi feito no segundo dia]
 
-### Dia 3
+#### Dia 3
 - [Incluir resumo do que foi feito no terceiro dia]
 
 [Continuar atualizando diariamente]
