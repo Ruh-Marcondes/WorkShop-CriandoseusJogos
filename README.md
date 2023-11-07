@@ -1,8 +1,17 @@
 # Intensivão de Criação de Jogos
 <br/>
 
+<table>
+  <tr>
+    <td aling="right">
+      
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+</td>
+</tr>
+</table>
 <hr>
 
 <p>Este evento foi feito pelo canal Crie seus jogos, com objetivo de ajudar todas as </p>
